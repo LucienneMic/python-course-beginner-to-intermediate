@@ -34,7 +34,7 @@ This repository contains a **14-week Python programming course**, designed to ta
 | 11 | Working with External Data | [Week-11-External-Data](Week-11-External-Data/) |
 | 12 | Introduction to Testing | [Week-12-Introduction-to-Testing](Week-12-Introduction-to-Testing/) |
 | 13 | Unit Testing | [Week-13-Unit-Testing](Week-13-Unit-Testing/) |
-| 14 | **Capstone Project** | [Week-14-Capstone-Project](Week-14-Capstone-Project/) |
+| 14 | ** Project** | [Week-14-Capstone-Project](Week-14-Capstone-Project/) |
 
 ---
 
@@ -67,4 +67,5 @@ The final project allows learners to **apply all Python concepts** in a practica
    
 3. Open the weekly folders for exercises and solutions.
 
-4. Follow the Capstone Project instructions in Week-14.
+4. Follow the Project instructions in Week-14.
+
