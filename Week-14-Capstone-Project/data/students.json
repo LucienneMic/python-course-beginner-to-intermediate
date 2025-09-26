@@ -1,0 +1,5 @@
+[
+    {"Name": "Alice", "Math": 90, "English": 85, "Science": 92},
+    {"Name": "Bob", "Math": 75, "English": 80, "Science": 78},
+    {"Name": "Charlie", "Math": 88, "English": 90, "Science": 85}
+]
