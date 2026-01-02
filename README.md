@@ -33,26 +33,27 @@ flowchart LR
 ```
 ---
 
-## Weekly Breakdown
+## Curriculum Mapping (Bloom’s Taxonomy)
 
-| Week | Topic | Folder |
-|------|-------|--------|
-| 1 | Introduction | [Week-01-Introduction](Week-01-Introduction/) |
-| 2 | Control Flow | [Week-02-Control-Flow](Week-02-Control-Flow/) |
-| 3 | Functions | [Week-03-Functions](Week-03-Functions/) |
-| 4 | Data Structures I | [Week-04-Data-Structures-I](Week-04-Data-Structures-I/) |
-| 5 | Data Structures II | [Week-05-Data-Structures-II](Week-05-Data-Structures-II/) |
-| 6 | Strings and File I/O | [Week-06-Strings-and-File-IO](Week-06-Strings-and-File-IO/) |
-| 7 | Modules and Packages | [Week-07-Modules-and-Packages](Week-07-Modules-and-Packages/) |
-| 8 | Exception Handling | [Week-08-Exception-Handling](Week-08-Exception-Handling/) |
-| 9 | OOP I | [Week-09-OOP-I](Week-09-OOP-I/) |
-| 10 | OOP II | [Week-10-OOP-II](Week-10-OOP-II/) |
-| 11 | Working with External Data | [Week-11-External-Data](Week-11-External-Data/) |
-| 12 | Introduction to Testing | [Week-12-Introduction-to-Testing](Week-12-Introduction-to-Testing/) |
-| 13 | Unit Testing | [Week-13-Unit-Testing](Week-13-Unit-Testing/) |
-| 14 | ** Project** | [Week-14-Capstone-Project](Week-14-Capstone-Project/) |
+| Week | Topic | Folder | Learning Objective | Bloom’s Level |
+|------|-------|--------|------------------|---------------|
+| 1 | Introduction | [Week-01-Introduction](Week-01-Introduction/) | Understand Python environment, syntax, and program flow | Remember / Understand |
+| 2 | Control Flow | [Week-02-Control-Flow](Week-02-Control-Flow/)| Apply conditional logic and loops in programs | Apply |
+| 3 | Functions | [Week-03-Functions](Week-03-Functions/) | Design and implement reusable functions | Apply / Create |
+| 4 | Data Structures I | [Week-04-Data-Structures-I](Week-04-Data-Structures-I/)| Use lists and tuples to store and manipulate data | Apply |
+| 5 | Data Structures II | [Week-05-Data-Structures-II](Week-05-Data-Structures-II/ | Analyze and use dictionaries and sets for problem solving | Analyze |
+| 6 | Strings and File I/O | [Week-06-Strings-and-File-IO](Week-06-Strings-and-File-IO/)| Apply string operations and read/write files | Apply |
+| 7 | Modules and Packages | [Week-07-Modules-and-Packages](Week-07-Modules-and-Packages/) | Integrate built-in and custom modules | Apply / Analyze |
+| 8 | Exception Handling | [Week-08-Exception-Handling](Week-08-Exception-Handling/)| Evaluate and handle errors effectively | Evaluate |
+| 9 | OOP I | [Week-09-OOP-I](Week-09-OOP-I/) | Understand and implement basic classes and objects | Understand / Apply |
+| 10 | OOP II | [Week-10-OOP-II](Week-10-OOP-II/) | Design and implement object-oriented programs | Apply / Create |
+| 11 | Working with External Data |[Week-11-External-Data](Week-11-External-Data/) | Integrate external data sources into applications | Apply / Analyze |
+| 12 | Introduction to Testing | [Week-12-Introduction-to-Testing](Week-12-Introduction-to-Testing/) | Understand testing concepts and importance | Understand |
+| 13 | Unit Testing | [Week-13-Unit-Testing](Week-13-Unit-Testing/) | Apply unit testing to validate code correctness | Apply / Evaluate |
+| 14 | **Capstone Project** |  [Week-14-Capstone-Project](Week-14-Capstone-Project/) | Synthesize skills to build a complete Python application | Create |
 
 ---
+
 
 ## Capstone Project: Student Grade Tracker
 The final project allows learners to **apply all Python concepts** in a practical scenario.
@@ -84,5 +85,6 @@ The final project allows learners to **apply all Python concepts** in a practica
 3. Open the weekly folders for exercises and solutions.
 
 4. Follow the Project instructions in Week-14.
+
 
 
