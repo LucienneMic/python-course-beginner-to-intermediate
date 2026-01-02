@@ -17,6 +17,22 @@ This repository contains a **14-week Python programming course**, designed to ta
 
 ---
 
+## Curriculum Progression Model
+
+```mermaid
+flowchart LR
+    A[Foundations<br/>Syntax & Setup]
+    B[Logic<br/>Conditionals & Loops]
+    C[Modularity<br/>Functions]
+    D[Data Handling<br/>Lists & Dictionaries]
+    E[Robustness<br/>Error Handling]
+    F[Integration<br/>Files & Libraries]
+    G[Capstone<br/>End-to-End Project]
+
+    A --> B --> C --> D --> E --> F --> G
+```
+---
+
 ## Weekly Breakdown
 
 | Week | Topic | Folder |
@@ -68,4 +84,5 @@ The final project allows learners to **apply all Python concepts** in a practica
 3. Open the weekly folders for exercises and solutions.
 
 4. Follow the Project instructions in Week-14.
+
 
