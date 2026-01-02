@@ -4,7 +4,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Overview
-This repository contains a **14-week Python programming course**, designed to take learners from beginner concepts to unit testing. Each week includes exercises, solutions, and learning objectives. The course culminates in a **Capstone Project** where students apply all concepts learned.
+This repository contains a **14-week Python programming course**, the curriculum is designed to take learners from beginner concepts to unit testing. Each week includes exercises, solutions, and learning objectives. The course culminates in a **Capstone Project** where students apply all concepts learned.
+
+This curriculum addresses different levels of cognitive complexity. Uses **Bloom's Taxonomy**, skill progression models, and gap analysis to ensure scaffolded, measurable learning outcomes.
 
 **Skills Covered:**
 - Python fundamentals: variables, control flow, functions
@@ -41,7 +43,7 @@ flowchart LR
 | 2 | Control Flow | [Week-02-Control-Flow](Week-02-Control-Flow/)| Apply conditional logic and loops in programs | Apply |
 | 3 | Functions | [Week-03-Functions](Week-03-Functions/) | Design and implement reusable functions | Apply / Create |
 | 4 | Data Structures I | [Week-04-Data-Structures-I](Week-04-Data-Structures-I/)| Use lists and tuples to store and manipulate data | Apply |
-| 5 | Data Structures II | [Week-05-Data-Structures-II](Week-05-Data-Structures-II/ | Analyze and use dictionaries and sets for problem solving | Analyze |
+| 5 | Data Structures II | [Week-05-Data-Structures-II](Week-05-Data-Structures-II/) | Analyze and use dictionaries and sets for problem solving | Analyze |
 | 6 | Strings and File I/O | [Week-06-Strings-and-File-IO](Week-06-Strings-and-File-IO/)| Apply string operations and read/write files | Apply |
 | 7 | Modules and Packages | [Week-07-Modules-and-Packages](Week-07-Modules-and-Packages/) | Integrate built-in and custom modules | Apply / Analyze |
 | 8 | Exception Handling | [Week-08-Exception-Handling](Week-08-Exception-Handling/)| Evaluate and handle errors effectively | Evaluate |
@@ -53,7 +55,24 @@ flowchart LR
 | 14 | **Capstone Project** |  [Week-14-Capstone-Project](Week-14-Capstone-Project/) | Synthesize skills to build a complete Python application | Create |
 
 ---
+## Curriculum Gap Analysis
 
+This table identifies coverage strength, potential gaps, and actions taken to improve learner outcomes for the Python Beginner → Intermediate course.
+
+| Module / Week | Topic | Coverage Strength | Gap / Risk | Action Taken / Solution |
+|---------------|-------|-----------------|------------|------------------------|
+| 2 | Control Flow | Moderate | Learners often confuse `if/else` and loops | Added guided exercises + visual flow diagrams |
+| 3 | Functions | Strong | Students struggle with abstraction | Added scaffolded function-building exercises |
+| 4-5 | Data Structures I & II | Moderate | Limited integration with prior modules | Embedded mini-projects using lists, dictionaries, sets |
+| 6 | Strings & File I/O | Weak | File handling introduced late | Moved earlier & integrated practical exercises |
+| 7 | Modules & Packages | Moderate | Students unfamiliar with module usage | Added guided module exploration tasks |
+| 8 | Exception Handling | Weak | Debugging skills weak | Added step-by-step labs & reflection exercises |
+| 9-10 | OOP I & II | Moderate | Limited exposure to real-world applications | Added mini-projects using classes and OOP design |
+| 11 | Working with External Data | Moderate | Students struggle with API/data integration | Added guided exercises with real data sources |
+| 12-13 | Testing & Unit Testing | Moderate | Limited practice in test writing | Added scaffolded unit test examples |
+| 14 | Capstone Project | Strong | Some learners struggle to synthesize all skills | Provided scaffolding, sample guides, and optional mentor support |
+
+---
 
 ## Capstone Project: Student Grade Tracker
 The final project allows learners to **apply all Python concepts** in a practical scenario.
@@ -85,6 +104,7 @@ The final project allows learners to **apply all Python concepts** in a practica
 3. Open the weekly folders for exercises and solutions.
 
 4. Follow the Project instructions in Week-14.
+
 
 
 
